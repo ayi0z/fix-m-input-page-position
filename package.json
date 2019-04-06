@@ -6,6 +6,10 @@
   "author": "ayioz",
   "private": false,
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ayi0z/fix-m-input-page-position.git"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
