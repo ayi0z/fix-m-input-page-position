@@ -1,8 +1,8 @@
 {
-  "name": "fix-m-input-page-positon",
-  "version": "0.1.1",
+  "name": "fix-m-input-page-position",
+  "version": "0.1.0",
   "description": "修正手机页面中，因input/select/textarea调用手机输入法后，页面上移的问题",
-  "main": "lib/fix-m-input-page-positon.umd.min.js",
+  "main": "lib/fix-m-input-page-position.umd.min.js",
   "author": "ayioz",
   "private": false,
   "license": "MIT",
@@ -14,7 +14,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "lib": "vue-cli-service build --target lib --name fix-m-input-page-positon --dest lib src/index.js"
+    "lib": "vue-cli-service build --target lib --name fix-m-input-page-position --dest lib src/index.js"
   },
   "dependencies": {
     "core-js": "^2.6.5",

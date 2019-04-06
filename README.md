@@ -5,12 +5,12 @@
 
 ## 安装
 ```
-npm install fix-m-input-page-position
+npm i fix-m-input-page-position
 ```
 
 ## 使用
 ```
-import fmipp from fix-m-input-page-position
+import fmipp from 'fix-m-input-page-position'
 Vue.use(fmipp)
 ```
 
